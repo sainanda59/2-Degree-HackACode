@@ -63,7 +63,11 @@
 
 * __Team 2&#176;__ has used [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=21.8.0) to simulate the __optimal solution__ which is __practical__ and __achievable__. En-ROADS is a __transparent simulator__ developed by Climate Interactive, Ventana Systems, and __MIT__ Sloan and has been __calibrated against__ a wide range of existing __integrated__ assessment, __climate and energy models__.
 
+##  🌟 Simulation-GIF
 ![En-ROADS Simulation](public/simulation.gif)
+
+##  🌟 Site-Preview-GIF
+![Website-Preview-GIG](public/site-demo.gif)
 
 ##  🌟 Tech Stack and Resources
   

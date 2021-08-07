@@ -82,6 +82,7 @@ a{
     width: 38%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .header .header-body .nav-items a{
@@ -90,6 +91,16 @@ a{
     letter-spacing: 0.05rem;
     transition: 600ms ease-in-out;
     cursor: pointer;
+}
+
+.header .header-body .nav-items  button{
+    width: 120px;
+}
+
+.header .header-body .nav-items  button a{
+    color: #eee;
+    font-weight: 500;
+    font-size: 13px;
 }
 
 .header .hr{
@@ -141,6 +152,28 @@ a{
     width: 100%;
     position: relative;
     
+}
+
+.banner .bottom-gradient{
+    position: absolute;
+    bottom: -105px;
+    left: 20%;
+}
+
+.banner .act-now{
+    position: absolute;
+    margin: 0px;
+    top: 4%;
+    left: 13%;
+}
+
+.banner .act-now p{
+    font-weight: 800;
+    font-size: 70px;
+    margin: 0px;
+    color: rgb(241, 240, 247);
+    /* transform: rotate(270deg); */
+
 }
 
 .banner .banner-main{
@@ -228,9 +261,11 @@ a{
 .banner .banner-body .banner-left .bannner-button{
     display: flex;
     align-items: center;
-    width: 51%;
+    width: 55%;
     justify-content: space-between;
 }
+
+
 
 .banner .banner-body .banner-left button{
     width: 210px;
@@ -246,6 +281,10 @@ a{
     margin-top: 20px;
     margin-left: 40px;
     color: rgb(54, 53, 53);
+}
+
+.banner .banner-body .banner-left .bannner-button .sponsor-us:hover{
+    cursor: pointer;
 }
 
 

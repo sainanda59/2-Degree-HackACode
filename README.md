@@ -1,6 +1,6 @@
 # ✨ Project 2 Degree 🌡️
 
-<img src="./public/save-earth.webp" alt="Save Earth" height="400" align="right">
+<img src="/assests/save-earth.webp" alt="Save Earth" height="400" align="right">
 
 ## 🌟 Our Motto
 
@@ -74,6 +74,7 @@
   * HTML
   * CSS
   * JS
+  * REACTJS
   * [En-ROADS](https://www.climateinteractive.org/tools/en-roads/) SIMULATOR
 
 ## ✨ Hall Of Contributors

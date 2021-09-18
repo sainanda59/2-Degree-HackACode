@@ -50,7 +50,8 @@ function Solution() {
         <p data-aos="fade-up" data-aos-delay="400">Explore the series of environmental challenges, and take a pledge to become a member of 2 degree</p>
         <div className="card-container">
             <div className="cards">
-                <a href="./pages/energy1.html">
+
+                <a href="https://energy-supply-1.netlify.app/">
                     <div className="card" data-aos="fade-up" data-aos-delay="500">
                         <div className="card-body">
                             <img src={require('../../../assests/e-2.png').default} alt="" />
@@ -60,7 +61,8 @@ function Solution() {
                         </div>
                     </div>
                 </a>
-                <a href="./pages/energy2.html">
+                
+                <a href="https://energy-supply-2.netlify.app/">
                     <div className="card" data-aos="fade-up" data-aos-delay="500">
                         <div className="card-body">
                             <img src={require('../../../assests/e-1.png').default} alt="" />
@@ -70,7 +72,7 @@ function Solution() {
                         </div>
                     </div>
                 </a>
-                <a href="./pages/growth.html">
+                <a href="https://growth-energy.netlify.app/">
                     <div className="card" data-aos="fade-up" data-aos-delay="500">
                         <div className="card-body">
                             <img src={require('../../../assests/e-6.png').default} alt=""/>
@@ -80,7 +82,7 @@ function Solution() {
                         </div>
                     </div>
                 </a>
-                <a href="./pages/land and carbon.html">
+                <a href="https://land-and-carbon.netlify.app/">
                     <div className="card" data-aos="fade-up" data-aos-delay="600">
                         <div className="card-body">
                             <img src={require('../../../assests/e-5.png').default} alt=""/>
@@ -90,7 +92,7 @@ function Solution() {
                         </div>
                     </div>
                 </a>
-                <a href="./pages/transport building.html">
+                <a href="https://transportation-and-building.netlify.app/">
                     <div className="card" data-aos="fade-up" data-aos-delay="600">
                         <div className="card-body">
                             <img src={require('../../../assests/e-5.png').default} alt="" />
@@ -101,10 +103,10 @@ function Solution() {
                     </div>
                 </a>
                 <a href="#home">
-                    <div className="card" data-aos="fade-up" data-aos-delay="600">
+                    <div id="pledge" className="card" data-aos="fade-up" data-aos-delay="600">
                         <div className="card-body">
                             <img src={require('../../../assests/e-3.png').default} alt=""/>
-                            <h3 id="pledge">Take Pledge</h3>
+                            <h3>Take Pledge</h3>
                             <p>Take a Pledge to make the Earth cooler by 2 degrees </p>
                             <button onClick={e => setOpen(true)} className="pledge" id="myBtn">Pledge</button>
                         </div>

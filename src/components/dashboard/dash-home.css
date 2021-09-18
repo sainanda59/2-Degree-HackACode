@@ -2,26 +2,26 @@
     margin-top: 100px;
 }
 
-.banner{
+.bannner{
     width: 100%;
     position: relative;
     
 }
 
-.banner .bottom-gradient{
+.bannner .bottom-gradient{
     position: absolute;
     bottom: -105px;
     left: 20%;
 }
 
-.banner .act-now{
+.bannner .act-now{
     position: absolute;
     margin: 0px;
     top: 4%;
     left: 13%;
 }
 
-.banner .act-now p{
+.bannner .act-now p{
     font-weight: 800;
     font-size: 70px;
     margin: 0px;
@@ -30,13 +30,13 @@
 
 }
 
-.banner .banner-main{
+.bannner .bannner-main{
     position: relative;
     width: 75%;
     margin: auto;
 }
 
-.banner .banner-main .banner-body{
+.bannner .bannner-main .bannner-body{
     position: relative;
     width: 100%;
     display: flex;
@@ -45,7 +45,7 @@
     justify-content: space-evenly;
 }
 
-.banner .banner-main .banner-light{
+.bannner .bannner-main .bannner-light{
     position: absolute;
     color: rgba(0, 0, 0, 0.3);
     left: 2%;
@@ -53,11 +53,11 @@
     margin-bottom: 0px;
 }
 
-.banner .banner-body .banner-right{
+.bannner .bannner-body .bannner-right{
     width: 40%;
 }
 
-.banner .banner-body .banner-right img{
+.bannner .bannner-body .bannner-right img{
     align-self: flex-end;
     width: 95%;
     animation-duration: 3s;
@@ -79,28 +79,29 @@
 }
 
 
-.banner .banner-body .banner-left{
+.bannner .bannner-body .bannner-left{
     width: 60%;
 }
 
-.banner .banner-body .banner-left h1{
+.bannner .bannner-body .bannner-left h1{
     font-size: 90px;
     margin-top: 100px;
     margin-bottom: 0px;
     /* color: rgb(37, 37, 37); */
-    background: linear-gradient(to right, #f35757 0%,#ec347b 50%, #7e0bdb 75%,  #8406eb 100%);
+
+    background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
 	-webkit-text-fill-color: transparent;
     -webkit-background-clip: text; 
 }
 
-.banner .banner-body .banner-left h2{
+.bannner .bannner-body .bannner-left h2{
     margin-top: 0px;
     line-height: 2.7rem;
     color: rgb(56, 56, 56);
     font-size: 35px;
 }
 
-.banner .banner-body .banner-left p{
+.bannner .bannner-body .bannner-left p{
     margin-top: 0px;
     width: 85%;
     color: rgb(54, 53, 53);
@@ -108,12 +109,12 @@
     line-height: 1.5rem;
 }
 
-.banner .banner-body .banner-left p span{
+.bannner .bannner-body .bannner-left p span{
     font-weight: 600;
 }
 
 
-.banner .banner-body .banner-left .bannner-button{
+.bannner .bannner-body .bannner-left .bannner-button{
     display: flex;
     align-items: center;
     width: 55%;
@@ -122,7 +123,7 @@
 
 
 
-.banner .banner-body .banner-left button{
+.bannner .bannner-body .bannner-left button{
     width: 210px;
     margin-top: 25px;
     padding: 10px 0px;
@@ -132,18 +133,18 @@
     text-transform: uppercase;
 }
 
-.banner .banner-body .banner-left .bannner-button .sponsor-us{
+.bannner .bannner-body .bannner-left .bannner-button .sponsor-us{
     margin-top: 20px;
     margin-left: 40px;
     color: rgb(54, 53, 53);
 }
 
-.banner .banner-body .banner-left .bannner-button .sponsor-us:hover{
+.bannner .bannner-body .bannner-left .bannner-button .sponsor-us:hover{
     cursor: pointer;
 }
 
 
-.banner  .banner-body .banner-left .sponsors{
+.bannner  .bannner-body .bannner-left .sponsors{
     width: 90%;
     display: flex;
     align-items: center;
@@ -152,19 +153,19 @@
 }
 
 
-.banner  .banner-body .banner-left .sponsors img{
+.bannner  .bannner-body .bannner-left .sponsors img{
     margin-right: 20px;
 }
 
-.banner  .banner-body .banner-left .sponsors .github{
+.bannner  .bannner-body .bannner-left .sponsors .github{
     width: 80px;
 }
 
-.banner  .banner-body .banner-left .sponsors .stickermule{
+.bannner  .bannner-body .bannner-left .sponsors .stickermule{
     width: 100px;
 }
 
-.banner  .banner-body .banner-left .sponsors p{
+.bannner  .bannner-body .bannner-left .sponsors p{
     font-weight: 800;
     color: #464747;
     font-size: 14px;

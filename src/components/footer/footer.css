@@ -1,0 +1,51 @@
+footer{
+    width: 100%;
+    background: #202020;
+    padding: 50px 0px;
+}
+
+footer .footer-body{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    color: #eee;
+    letter-spacing: 0.1rem;
+}
+
+footer .footer-body h1{
+    color: #dfdbdc;
+    font-weight: 500;
+}
+
+footer .footer-body p{
+    font-size: 13px;
+    font-weight: 200;
+}
+
+footer .footer-body .footer-social{
+    color: #fff;
+    width: 20%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    align-items: center;
+}
+
+footer .footer-body .footer-social a{
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    border-radius: 50%;
+}
+
+
+footer .footer-body .footer-social a i{
+    margin-top: 12px;
+    color: #222;
+    transition: all 2.5s;
+}
+
+footer .footer-body .footer-social a:hover{
+    padding: 1px;
+}

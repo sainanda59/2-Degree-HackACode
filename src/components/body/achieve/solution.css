@@ -1,0 +1,175 @@
+.solution{
+    width: 100%;
+    padding: 80px 0px;
+}
+
+.solution .solution-main{
+    width: 90%;
+    margin: auto;
+}
+
+.solution .solution-main .solution-1{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.solution .solution-main .solution-1 .solution-1-left{
+    width: 45%;
+}
+
+.solution .solution-main .solution-1 .solution-1-right{
+    width: 30%;
+}
+
+.solution .solution-main .solution-1 .solution-1-right img{
+    width: 100%;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    margin: 0 auto 0 auto;
+    transform-origin: bottom;
+}
+
+.solution .solution-main .solution-1 .solution-1-left h2{
+    font-size: 35px;
+    color: rgb(36, 35, 35);
+}
+
+.solution .solution-main .solution-1 .solution-1-left h2 span{
+    color: #0fe032;
+}
+
+.solution .solution-main .solution-1 .solution-1-left p{
+    letter-spacing: 0.1rem;
+    line-height: 1.5rem;
+    font-size: 14px;
+}
+
+.solution .solution-main .solution-2{
+    text-align: center;
+}
+
+.solution .solution-main .solution-2 h3{
+    font-size: 30px;
+    letter-spacing: 0.1rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.solution .solution-main .solution-2 img{
+    width: 80px;
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+
+.solution .solution-main .solution-2 p{
+    width: 40%;
+    margin: auto;
+}
+
+.solution .solution-main .solution-2 a{
+    color: #2c2b2b;
+}
+
+.solution .solution-main .solution-2 .card-container{
+    width: 85%;
+    margin: auto;
+    margin-top: 50px ;
+}
+
+.solution .solution-main .solution-2 .cards{
+    display: grid;
+    grid-template-columns: 370px 370px 370px;
+    grid-gap: 20px;
+    background-color: #fff;
+}
+
+.solution .solution-main .solution-2 .cards .card{
+    background-color: #fff;
+    border: 1px solid #464747;
+    padding: 10px 0px;
+    border-radius: 5px;
+    height: 260px;
+}
+
+.solution .solution-main .solution-2 .cards .card p{
+    width: 90%;
+    font-size: 14px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+
+.solution .solution-main .solution-2 .cards .card h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.solution .solution-main .solution-2 .cards .pledge{
+    color: #eee;
+    background-color: #15d46b;
+}
+
+.solution .solution-main .solution-2 .cards .pledge:hover{
+    border: none !important;
+}
+
+
+.solution .act-now{
+    position: absolute;
+    margin: 0px;
+    left: 12%;
+}
+
+.solution .act-now p{
+    font-weight: 800;
+    font-size: 100px;
+    margin: 0px;
+    color: rgb(241, 240, 247);
+    /* transform: rotate(270deg); */
+
+}
+
+.modal {
+    /* display:none; Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    overflow: auto; /* Enable scroll if needed */
+    margin: auto;
+}
+
+.modal img{
+    width: 20%;
+    margin-bottom: -20px;
+}
+  
+  /* Modal Content/Box */
+  .modal-content {
+    text-align: center;
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+
+  .modal-content  h2{
+      margin-bottom: 0px;
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }

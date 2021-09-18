@@ -1,91 +1,70 @@
-# ✨ Project 2 Degree 🌡️
+# Getting Started with Create React App
 
-<img src="./public/save-earth.webp" alt="Save Earth" height="400" align="right">
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🌟 Our Motto
+## Available Scripts
 
-### "Pledge 2 be Cool and make Earth 2&#176; Cooler"
+In the project directory, you can run:
 
-## 🌟 Introduction
+### `npm start`
 
-#### "Earth provides enough to satisfy every man's need but not every man's greed."
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* __Global warming__ is the increase of average world temperature as a result of what is known as the __greenhouse effect__. Certain __gases__ in the __atmosphere__ act like glass in a greenhouse, allowing sunlight through to __heat the earth__'s surface but trapping the heat as it radiates back into space.
-* It's being __predicted__ that by the next century __Earth__ will see a rise of nearly __5&#176;C__ in the global __temperature__ due to __Global warming__.
-* __Team 2&#176;__ believes this rise in temperature can be __restrained__ to __2&#176;C__ and aims to make it a __reality__ with this project .
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-## 🌟 Problem Statement
+### `npm test`
 
-* __What is Global warming?__
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-  * Global warming is the long-term heating of Earth's climate system observed since the pre-industrial period (between 1850 and 1900) due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth's atmosphere.
+### `npm run build`
 
-* __What causes Global warning?__
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-    * It is caused by increased concentrations of greenhouse gases in the atmosphere, mainly from human activities such as burning fossil fuels, deforestation, industrial activities and farming.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* __How big is the Global Warming?__
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-    * Climate change is already happening: temperatures are rising, drought and wild fires are starting to occur more frequently, rainfall patterns are shifting, glaciers and snow are melting and the global mean sea level is rising.
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-##  🌟 Problem Solution
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-* __Project 2&#176;__ has __simulated__ to design the most __opitimal scenario__ to restrain the rise in global temperature due to global warming.
-* In this Project __Team 2&#176;__ took into consideration __factors__ such as:
- 
-     * __Energy Supply__  
-     * __Transport__
-     * __Buildings and Industry__
-     * __Population Growth__
-     * __Economic Growth__
-     * __Land and Industrial Emissions__
-     * __Carbon Removal__
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-     along with various __sub-factors__ such as:
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-     * __Use of Coal__
-     * __Renewable Resources__
-     * __New Zero Concept__
-     * __Carbon Price__
-     * __Energy Efficiency__
-     * __Afforestation__
-     * __Use of Technology for Carbon Remomal__ , etc.
- 
-* __Team 2&#176;__ has also given insights about existing green technologies such as:
- 
-     * __FuelGems__
-     * __Climeworks__
-     * __Terramera__
-     * __CarbonCure__
- 
-  which are working efficiently towards __Net-Zero Carbon__ , __Carbon Neutrality__ or simply __Carbon Removal__.
+## Learn More
 
-* __Team 2&#176;__ has used [En-ROADS](https://en-roads.climateinteractive.org/scenario.html?v=21.8.0) to simulate the __optimal solution__ which is __practical__ and __achievable__. En-ROADS is a __transparent simulator__ developed by Climate Interactive, Ventana Systems, and __MIT__ Sloan and has been __calibrated against__ a wide range of existing __integrated__ assessment, __climate and energy models__.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-##  🌟 Simulation-GIF
-![En-ROADS Simulation](public/simulation.gif)
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-##  🌟 Site-Preview-GIF
-![Website-Preview-GIG](public/site-demo.gif)
+### Code Splitting
 
-##  🌟 Tech Stack and Resources
-  
-  * HTML
-  * CSS
-  * JS
-  * [En-ROADS](https://www.climateinteractive.org/tools/en-roads/) SIMULATOR
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## ✨ Hall Of Contributors
+### Analyzing the Bundle Size
 
-Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+### Making a Progressive Web App
 
-<a href="https://github.com/The-CODE-Plus-Plus-Community/2-Degree-HackACode/contributors">
-  <img src="https://contrib.rocks/image?repo=The-CODE-Plus-Plus-Community/2-Degree-HackACode" />
-</a>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
+### Advanced Configuration
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

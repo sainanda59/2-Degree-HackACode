@@ -75,6 +75,7 @@
   * CSS
   * JS
   * REACTJS
+  * FIREBASE
   * [En-ROADS](https://www.climateinteractive.org/tools/en-roads/) SIMULATOR
 
 ## ✨ Hall Of Contributors

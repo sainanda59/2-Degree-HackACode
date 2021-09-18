@@ -1,6 +1,6 @@
 # ✨ Project 2 Degree 🌡️
 
-<img src="/assests/save-earth.webp" alt="Save Earth" height="400" align="right">
+<img src="./src/assests/save-earth.webp" alt="Save Earth" height="400" align="right">
 
 ## 🌟 Our Motto
 

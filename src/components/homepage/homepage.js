@@ -2,7 +2,7 @@ import React from 'react';
 import Body from '../body/body';
 import Footer from '../footer/footer';
 import Header from '../header/header';
-import Sidebar from '../sidebar/sidebar';
+// import Sidebar from '../sidebar/sidebar';
 import './homepage.css';
 
 function Homepage() {
@@ -11,6 +11,7 @@ function Homepage() {
             {/* <div>
                 <Sidebar/>
             </div> */}
+            
             <div>
                 <Header/>
             </div>

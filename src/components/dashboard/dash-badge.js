@@ -12,6 +12,14 @@ function DashBadge() {
         <div className="badge2" data-aos="fade-up" data-aos-delay="900">
         <img src= {require('../../assests/badge2.png').default} />
         </div>
+
+        <div className="badge3" data-aos="fade-up" data-aos-delay="900">
+          <img src={require('../../assests/Badge3.png').default} />
+        </div>
+
+        <div className="badge4" data-aos="fade-up" data-aos-delay="900">
+          <img src={require('../../assests/Badge4.png').default} />
+        </div>
         </div>
         </div>
     )

@@ -70,7 +70,7 @@ a{
 .header .header-body .nav-items{
     width: 38%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -83,7 +83,7 @@ a{
 }
 
 .header .header-body .nav-items  button{
-    width: 120px;
+    width: 100px;
 }
 
 .header .header-body .nav-items  button a{

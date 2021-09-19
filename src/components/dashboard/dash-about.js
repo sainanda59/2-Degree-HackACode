@@ -13,7 +13,7 @@ function DashAbout() {
         <div className="about-content">
         <div className="name">
           <p> {name} </p>
-          <p>Green Superhero</p>
+          <p className="user-title">Green Superhero</p>
         </div>
 
         <div className="photo" data-aos="fade-up" data-aos-delay="900">

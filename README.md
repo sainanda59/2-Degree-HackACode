@@ -50,7 +50,7 @@
      * __Carbon Price__
      * __Energy Efficiency__
      * __Afforestation__
-     * __Use of Technology for Carbon Remomal__ , etc.
+     * __Use of Technology for Carbon Removal__ , etc.
  
 * __Team 2&#176;__ has also given insights about existing green technologies such as:
  

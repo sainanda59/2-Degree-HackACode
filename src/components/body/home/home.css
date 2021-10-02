@@ -130,16 +130,7 @@
     letter-spacing: 0.1rem;
     font-size: 14px;
     text-transform: uppercase;
-}
-
-.banner .banner-body .banner-left .bannner-button .sponsor-us{
-    margin-top: 20px;
-    margin-left: 40px;
-    color: rgb(54, 53, 53);
-}
-
-.banner .banner-body .banner-left .bannner-button .sponsor-us:hover{
-    cursor: pointer;
+    margin-right: 10px;
 }
 
 
@@ -147,7 +138,7 @@
     width: 90%;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: flex-start;
     
 }
 

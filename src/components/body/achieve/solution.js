@@ -10,7 +10,7 @@ function Solution() {
         onClose={e => setOpen(false)}
         >
         <div>
-            <div className="modal-main">
+            <div className="modal-main" data-aos="zoom-in-up" data-aos-delay="300">
                 <div id="myModal" className="modal">
 
                     <div className="modal-content">
@@ -40,19 +40,19 @@ function Solution() {
             </h2>
             <p data-aos="fade-right" data-aos-delay="400">Adding to the environmental safety is the prior step a aware citizen should take to commit into a better lifestyle for their fellow beings. We should think of others but just think in a way that if we help a small number of people in this situation of global remorse and if each of us commit into this pledge then we can make our Earth a beautiful place.</p>
         </div>
-        <div className="solution-1-right">
-            <img src={require('../../../assests/save-earth-2.webp').default} alt="" className="bounce-2" data-aos="fade-up" data-aos-delay="500"/>
+        <div className="solution-1-right" data-aos="zoom-in" data-aos-delay="700">
+            <img src={require('../../../assests/save-earth-2.webp').default} alt="" className="bounce-2"/>
         </div>
     </div>
 
     <div className="solution-2" id="solution">
-        <h3 data-aos="fade-up" data-aos-delay="300">Take a Pledge</h3>
-        <p data-aos="fade-up" data-aos-delay="400">Explore the series of environmental challenges, and take a pledge to become a member of 2 degree</p>
+        <h3 data-aos="fade-down" data-aos-delay="300">Take a Pledge</h3>
+        <p data-aos="fade-down" data-aos-delay="400">Explore the series of environmental challenges, and take a pledge to become a member of 2 degree</p>
         <div className="card-container">
             <div className="cards">
 
                 <a href="https://energy-supply-1.netlify.app/">
-                    <div className="card" data-aos="fade-up" data-aos-delay="500">
+                    <div className="card" data-aos="fade-right" data-aos-delay="700">
                         <div className="card-body">
                             <img src={require('../../../assests/e-2.png').default} alt="" />
                             <h3>Non-Renewable Challenge</h3>
@@ -63,7 +63,7 @@ function Solution() {
                 </a>
                 
                 <a href="https://energy-supply-2.netlify.app/">
-                    <div className="card" data-aos="fade-up" data-aos-delay="500">
+                    <div className="card" data-aos="fade-down" data-aos-delay="800">
                         <div className="card-body">
                             <img src={require('../../../assests/e-1.png').default} alt="" />
                             <h3>Renewable  Challenge</h3>
@@ -73,7 +73,7 @@ function Solution() {
                     </div>
                 </a>
                 <a href="https://growth-energy.netlify.app/">
-                    <div className="card" data-aos="fade-up" data-aos-delay="500">
+                    <div className="card" data-aos="fade-left" data-aos-delay="900">
                         <div className="card-body">
                             <img src={require('../../../assests/e-6.png').default} alt=""/>
                             <h3>Growth Challenge</h3>
@@ -83,7 +83,7 @@ function Solution() {
                     </div>
                 </a>
                 <a href="https://land-and-carbon.netlify.app/">
-                    <div className="card" data-aos="fade-up" data-aos-delay="600">
+                    <div className="card" data-aos="fade-right" data-aos-delay="900">
                         <div className="card-body">
                             <img src={require('../../../assests/e-5.png').default} alt=""/>
                             <h3>Land & Carbon Challenge</h3>
@@ -93,7 +93,7 @@ function Solution() {
                     </div>
                 </a>
                 <a href="https://transportation-and-building.netlify.app/">
-                    <div className="card" data-aos="fade-up" data-aos-delay="600">
+                    <div className="card" data-aos="fade-up" data-aos-delay="1000">
                         <div className="card-body">
                             <img src={require('../../../assests/e-5.png').default} alt="" />
                             <h3>Industry Challenge</h3>
@@ -103,7 +103,7 @@ function Solution() {
                     </div>
                 </a>
                 <a href="#home">
-                    <div id="pledge" className="card" data-aos="fade-up" data-aos-delay="600">
+                    <div id="pledge" className="card" data-aos="fade-left" data-aos-delay="1100">
                         <div className="card-body">
                             <img src={require('../../../assests/e-3.png').default} alt=""/>
                             <h3>Take Pledge</h3>

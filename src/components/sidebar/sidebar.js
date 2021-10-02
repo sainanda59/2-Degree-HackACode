@@ -7,7 +7,6 @@ function Sidebar() {
         <a href="#home"><i class="far fa-heart"></i></a>
         <a href="#home"><i class="fas fa-seedling"></i></a>
         <a href="#home"><i class="fas fa-globe-americas"></i></a>
-
         <div class="line"></div>
     </div>
     )

@@ -11,7 +11,7 @@ function Footer() {
                 <br/>Feel free to contribute!
             </p>
 
-            <div className="footer-social" data-aos="fade-up" data-aos-delay="500">
+            <div className="footer-social" data-aos="zoom-in" data-aos-delay="1000">
                 <a href="https://github.com/The-CODE-Plus-Plus-Community/2-Degree-HackACode"><i className="fab fa-github"></i></a>
                 <a href="#home"><i className="far fa-heart"></i></a>
                 <a href="#home"><i className="fas fa-seedling"></i></a>
